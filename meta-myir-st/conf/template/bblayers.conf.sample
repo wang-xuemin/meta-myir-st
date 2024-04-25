@@ -28,6 +28,7 @@ BASELAYERS ?= " \
     ${OEROOT}/layers/meta-openembedded/meta-webserver \
     ${OEROOT}/layers/meta-openembedded/meta-filesystems \
     ${OEROOT}/layers/meta-openembedded/meta-perl \
+    ${OEROOT}/layers/meta-openembedded/meta-python2 \
 "
 
 BBLAYERS_NON_REMOVABLE ?= " \
