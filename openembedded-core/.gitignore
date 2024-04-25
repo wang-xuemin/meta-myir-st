@@ -1,4 +1,4 @@
-bitbake
+# bitbake
 *.pyc
 *.pyo
 /*.patch
